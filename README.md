@@ -64,7 +64,7 @@ El archivo de Excel con dichos cálculos personalizados puede ser descargado [aq
 
 # Análisis de Churn - Cancelación de Suscripciones
 
-Un dashboard interactivo en Tableau con más visualizaciones de las aquí presentadas, puede ser observado [en este sitio](https://public.tableau.com/views/NetflixSubscriptionsAnalysis/Churn-Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+Un dashboard interactivo en Tableau puede ser visualizado [aquí](https://public.tableau.com/views/NetflixSubscriptionsAnalysis/Churn-Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ![Churn - Suscripciones Netflix](images/Screenshot_Churn.png)
 
